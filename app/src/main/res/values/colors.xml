@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="projects_names_background">#ffdfeaf1</color>
+    <color name="projects_names_btn_background">#EF6C00</color>
+    <color name="projects_names_btn_text_color">#FFF3E0</color>
+    <color name="projects_names_btn_pressed">#D500F9</color>
+</resources>
